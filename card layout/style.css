@@ -1,0 +1,152 @@
+.flex-item-1 {
+    padding: 10px;
+    margin: 10px;
+    border: 5px solid black;
+    width: 150px;
+    height: 100px;
+    background: #C4C4C4;
+    border-radius: 10px;
+}
+
+.flex-item-2 {
+    padding: 10px;
+    margin: 10px;
+    border: 5px solid black;
+    width: 150px;
+    height: 100px;
+    background: #C4C4C4;
+    border-radius: 10px;
+}
+
+.flex-item-3 {
+    padding: 10px;
+    margin: 10px;
+    border: 5px solid black;
+    width: 150px;
+    height: 100px;
+    background: #C4C4C4;
+    border-radius: 10px;
+}
+
+.flex-container-top {
+    display: flex;
+}
+
+.text-items-1 {
+    font-size: 70px;
+    justify-content: center;
+    position: relative;
+    bottom: 30px;
+    left: 40px;
+    color: #304364;
+}
+
+.text-items-2 {
+    font-size: 70px;
+    justify-content: center;
+    position: relative;
+    bottom: 30px;
+    left: 40px;
+    color: #304364;
+}
+
+.text-items-3 {
+    font-size: 70px;
+    justify-content: center;
+    position: relative;
+    bottom: 30px;
+    left: 40px;
+    color: #304364;
+}
+
+.flex-container-middle {
+    display: flex;
+}
+
+.text-item {
+    font-size: 70px;
+    justify-content: center;
+    position: relative;
+    bottom: 30px;
+    left: 40px;
+    color: #304364;
+}
+
+.text-items-middle-2 {
+    font-size: 70px;
+    justify-content: center;
+    position: relative;
+    bottom: 30px;
+    left: 40px;
+    color: #304364;
+}
+
+.text-item-middle-3 {
+    font-size: 70px;
+    justify-content: center;
+    position: relative;
+    bottom: 30px;
+    left: 40px;
+    color: #304364;
+}
+
+.flex-item-bottom-1 {
+    padding: 10px;
+    margin: 10px;
+    border: 5px solid black;
+    width: 150px;
+    height: 100px;
+    background: #C4C4C4;
+    border-radius: 10px;
+}
+
+.flex-item-bottom-2 {
+    padding: 10px;
+    margin: 10px;
+    border: 5px solid black;
+    width: 150px;
+    height: 100px;
+    background: #C4C4C4;
+    border-radius: 10px;
+}
+
+.flex-item-bottom-3 {
+    padding: 10px;
+    margin: 10px;
+    border: 5px solid black;
+    width: 150px;
+    height: 100px;
+    background: #C4C4C4;
+    border-radius: 10px;
+}
+
+.flex-container-bottom {
+    display: flex;
+}
+
+.hehe_boi {
+    font-size: 70px;
+    justify-content: center;
+    position: relative;
+    bottom: 30px;
+    left: 40px;
+    color: #304364;
+}
+
+.hehe_boi-2 {
+    font-size: 70px;
+    justify-content: center;
+    position: relative;
+    bottom: 30px;
+    left: 40px;
+    color: #304364;
+}
+
+.hehe-boi-3 {
+    font-size: 70px;
+    justify-content: center;
+    position: relative;
+    bottom: 30px;
+    left: 40px;
+    color: #304364;
+}

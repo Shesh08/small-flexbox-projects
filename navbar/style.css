@@ -1,0 +1,14 @@
+.nav-links {
+    display: flex;
+    gap: 30px;
+    flex-direction: row;
+    border: 3px solid purple;
+    border-radius: 20px;
+    border-width: 0px;
+}
+
+.nav-text {
+    font-size: 70px;
+    color: black;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}

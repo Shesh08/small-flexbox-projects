@@ -1,0 +1,20 @@
+.nav-links {
+    padding: 10px;
+    margin: 2px;
+    font-size: 50px;
+    font-family: sans-serif;
+    text-decoration: none;
+    color: black;
+}
+
+nav {
+    display: flex;
+    flex-direction: column;
+    background-color: yellow;
+    width: 20%;
+    height: 100%;
+}
+
+.home-button {
+    background-color: #4CAF50;
+}
