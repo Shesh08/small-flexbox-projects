@@ -1,0 +1,82 @@
+.flex-item-1 {
+    padding: 1px;
+    margin: 1px;
+    border: 10px solid black;
+    width: 700px;
+    height: 150px;
+}
+
+.flex-text-1 {
+    font-size: 80px;
+    text-align: center;
+}
+
+.flex-item-2 {
+    padding: 1px;
+    margin: 1px;
+    border: 10px solid black;
+    width: 450px;
+    height: 150px;
+}
+
+.flex-text-2 {
+    font-size: 80px;
+    text-align: center;
+}
+
+.flex-container-3 {
+    position: relative;
+    left: 500px;
+    bottom: 170px;
+    right: 0px;
+}
+
+.flex-item-3 {
+    padding: 3px;
+    margin: 3px;
+    border: 10px solid black;
+    width: 200px;
+    height: 130px;
+}
+
+.flex-text-3 {
+    font-size: 80px;
+    text-align: center;
+}
+
+.flex-item-4 {
+    padding: 3px;
+    margin: 3px;
+    border: 10px solid black;
+    width: 550px;
+    height: 130px;  
+}
+
+.flex-container-4 {
+    position: relative;
+    bottom: 160px;
+    left: 150px;
+}
+
+.flex-text-4 {
+    font-size: 80px;
+    text-align: center;
+}
+
+.flex-container-5 {
+    position: relative;
+    bottom: 310px;
+}
+
+.flex-item-5 {
+    padding: 3px;
+    margin: 3px;
+    border: 10px solid black;
+    width: 120px;
+    height: 130px;
+}
+
+.flex-text-5 {
+    font-size: 80px;
+    text-align: center;
+}
