@@ -1,0 +1,96 @@
+.flex-item-1 {
+    padding: 3px;
+    margin: 3px;
+    border: 10px solid black;
+    width: 1500px;
+    height: 130px;
+    border-radius: 20px;
+}
+
+.flex-text-1 {
+    font-size: 80px;
+    text-align: center;
+    position: relative;
+    bottom: 30px;
+}
+
+.flex-item-2 {
+    padding: 3px;
+    margin: 3px;
+    border: 10px solid black;
+    width: 150px;
+    height: 500px;
+    border-radius: 20px;
+}
+
+.flex-text-2 {
+    font-size: 80px;
+    text-align: center;
+    position: relative;
+    top: 130px;
+}
+
+.flex-container-3 {
+    position: relative;
+    left: 180px;
+    bottom: 500px;
+}
+
+.flex-item-3 {
+    padding: 3px;
+    margin: 3px;
+    border: 10px solid black;
+    width: 1000px;
+    height: 450px;
+    border-radius: 10px;
+}
+
+.flex-text-3 {
+    font-size: 80px;
+    text-align: center;
+    position: relative;
+    top: 90px;
+}
+
+.flex-container-4 {
+    position: relative;
+    bottom: 1000px;
+    left: 1350px;
+}
+
+.flex-item-4 {
+    padding: 3px;
+    margin: 3px;
+    border: 10px solid black;
+    width: 150px;
+    height: 500px;
+    border-radius: 10px;
+}
+
+.flex-text-4 {
+    font-size: 80px;
+    text-align: center;
+    position: relative;
+    top: 90px;
+}
+
+.flex-container-5 {
+    position: relative;
+    bottom: 1000px;
+}
+
+.flex-item-5 {
+    padding: 3px;
+    margin: 3px;
+    border: 10px solid black;
+    width: 1500px;
+    height: 130px;
+    border-radius: 20px;
+}
+
+.flex-text-5 {
+    font-size: 80px;
+    text-align: center;
+    position: relative;
+    bottom: 30px;
+}
