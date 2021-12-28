@@ -1,2 +1,2 @@
 # small-flexbox-projects
-Basic projects  which I made while learning flexbox.
+Basic projects  which I made while learning css flexbox.
